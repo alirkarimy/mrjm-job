@@ -1,5 +1,5 @@
 # mrjm-job
-This a public repository to help anyone who is seeking to find out the details about mrjm new job position
+This is a public repository to help anyone who is seeking to find out the details about mrjm new job position
 
 ## License
 Copyright (c) 2012-2021 Tadbirgaran
